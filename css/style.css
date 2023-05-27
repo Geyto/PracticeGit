@@ -15,8 +15,7 @@ body{
 .header__logo{
     position: absolute;
     top: 49px;
-    left: 50%;
-    transform: translateX(-50%);
+    left: calc(50% - 130px);
 }
 .authorization{
     display: flex;
@@ -38,11 +37,11 @@ body{
 }
 .authorization::before{
     left: 0;
-    background-color: #FFFFFF;
+    background-color: #fffefe;
 }
 .authorization::after{
     right: 0;
-    background-color: #F8F8FA;
+    background-color: #eaeaec;
 }
 .authorization__main{
     flex: 1;
