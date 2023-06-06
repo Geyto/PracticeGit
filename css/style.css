@@ -21,7 +21,7 @@ body{
     display: flex;
     max-width: 1200px;
     margin: 0 auto;
-    padding: 0 15px 100px;
+    padding: 0 15px 120px;
     min-height: 100vh;
 }
 .authorization::before,
@@ -41,7 +41,7 @@ body{
 }
 .authorization::after{
     right: 0;
-    background-color: #eaeaec;
+    background-color: #dedddd;
 }
 .authorization__main{
     flex: 1;
@@ -63,7 +63,7 @@ body{
     margin-left: 11px;
 }
 .authorization__title{
-    font-size: 36px;
+    font-size: 35px;
     line-height: 49px;
     color: #000000;
     margin-bottom: 7px;
@@ -76,7 +76,7 @@ body{
     max-width: 452px;
 }
 .label__text{
-    font-size: 16px;
+    font-size: 18px;
     line-height: 27px;
     color: #C6C6C4;
     margin-top: 20px;
@@ -99,7 +99,7 @@ body{
 }
 .authorization__checkbox-span{
     margin-left: 10px;
-    font-size: 16px;
+    font-size: 18px;
     line-height: 27px;
     color: #636363;
     cursor: pointer;
