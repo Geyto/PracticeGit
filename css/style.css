@@ -63,7 +63,7 @@ body{
     margin-left: 11px;
 }
 .authorization__title{
-    font-size: 35px;
+    font-size: 38px;
     line-height: 49px;
     color: #000000;
     margin-bottom: 7px;
@@ -226,7 +226,6 @@ body{
         font-size: 15px;
     }
 }
-
 @media screen and (max-width: 424px){
     .authorization__input{
         max-width: 100%;
