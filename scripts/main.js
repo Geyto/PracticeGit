@@ -112,3 +112,4 @@ document.addEventListener('DOMContentLoaded', function () {
 }, false);
 
 console.log("Hello World");
+console.log("Andrey did here");
