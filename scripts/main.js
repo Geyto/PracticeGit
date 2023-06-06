@@ -113,3 +113,4 @@ document.addEventListener('DOMContentLoaded', function () {
 
 console.log("Hello World");
 console.log("Andrey did here");
+console.log("myTask");
