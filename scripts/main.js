@@ -111,4 +111,4 @@ document.addEventListener('DOMContentLoaded', function () {
 
 }, false);
 
-console.log("Hello World");
+console.log("Hello Admin");
