@@ -113,3 +113,5 @@ document.addEventListener('DOMContentLoaded', function () {
 
 console.log("Hello Admin");
 console.log("Im fine");
+console.log("How are you");
+
