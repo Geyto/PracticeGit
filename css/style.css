@@ -41,7 +41,7 @@ body{
 }
 .authorization::after{
     right: 0;
-    background-color: #eaeaec;
+    background-color: #d3d3d3;
 }
 .authorization__main{
     flex: 1;
