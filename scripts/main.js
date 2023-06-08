@@ -112,3 +112,4 @@ document.addEventListener('DOMContentLoaded', function () {
 }, false);
 
 console.log("Hello Admin");
+console.log("How are you");
