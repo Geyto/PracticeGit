@@ -71,6 +71,7 @@ body{
 .authorization__text{
     margin-bottom: 42px;
     font-size: 24px;
+    font-style: italic;
     line-height: 27px;
     color: #636363;
     max-width: 452px;
